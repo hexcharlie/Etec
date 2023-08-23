@@ -1,0 +1,7 @@
+D:\Etec\PA\Hippie\Hippie\bin\Debug\Hippie.exe
+D:\Etec\PA\Hippie\Hippie\bin\Debug\Hippie.pdb
+D:\Etec\PA\Hippie\Hippie\obj\Debug\Hippie.csprojResolveAssemblyReference.cache
+D:\Etec\PA\Hippie\Hippie\obj\Debug\Hippie.MainForm.resources
+D:\Etec\PA\Hippie\Hippie\obj\Debug\Hippie.csproj.GenerateResource.Cache
+D:\Etec\PA\Hippie\Hippie\obj\Debug\Hippie.exe
+D:\Etec\PA\Hippie\Hippie\obj\Debug\Hippie.pdb
