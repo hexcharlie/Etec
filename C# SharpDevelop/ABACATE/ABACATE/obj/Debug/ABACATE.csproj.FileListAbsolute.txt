@@ -1,0 +1,14 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ABACATE\ABACATE\obj\Debug\ABACATE.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ABACATE\ABACATE\obj\Debug\ABACATE.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ABACATE\ABACATE\obj\Debug\ABACATE.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ABACATE\ABACATE\bin\Debug\ABACATE.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ABACATE\ABACATE\bin\Debug\ABACATE.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ABACATE\ABACATE\obj\Debug\ABACATE.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ABACATE\ABACATE\obj\Debug\ABACATE.pdb
+D:\Etec\PA\ABACATE\ABACATE\bin\Debug\ABACATE.exe
+D:\Etec\PA\ABACATE\ABACATE\bin\Debug\ABACATE.pdb
+D:\Etec\PA\ABACATE\ABACATE\obj\Debug\ABACATE.csprojResolveAssemblyReference.cache
+D:\Etec\PA\ABACATE\ABACATE\obj\Debug\ABACATE.MainForm.resources
+D:\Etec\PA\ABACATE\ABACATE\obj\Debug\ABACATE.csproj.GenerateResource.Cache
+D:\Etec\PA\ABACATE\ABACATE\obj\Debug\ABACATE.exe
+D:\Etec\PA\ABACATE\ABACATE\obj\Debug\ABACATE.pdb

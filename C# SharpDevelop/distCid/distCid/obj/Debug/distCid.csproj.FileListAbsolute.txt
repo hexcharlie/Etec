@@ -1,0 +1,7 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\distCid\distCid\bin\Debug\distCid.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\distCid\distCid\bin\Debug\distCid.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\distCid\distCid\obj\Debug\distCid.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\distCid\distCid\obj\Debug\distCid.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\distCid\distCid\obj\Debug\distCid.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\distCid\distCid\obj\Debug\distCid.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\distCid\distCid\obj\Debug\distCid.pdb

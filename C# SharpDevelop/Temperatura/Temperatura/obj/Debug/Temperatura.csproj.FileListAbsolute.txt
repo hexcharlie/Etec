@@ -1,0 +1,7 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Temperatura\Temperatura\obj\Debug\Temperatura.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Temperatura\Temperatura\obj\Debug\Temperatura.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Temperatura\Temperatura\obj\Debug\Temperatura.pdb

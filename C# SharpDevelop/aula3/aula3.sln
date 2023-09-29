@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula3", "aula3\aula3.csproj", "{33DE8505-DA91-4A12-998A-ED6755FAA3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSimples", "CalculadoraSimples\CalculadoraSimples.csproj", "{364B99CC-75A4-4ABB-98CA-556EDEE3AD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33DE8505-DA91-4A12-998A-ED6755FAA3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DE8505-DA91-4A12-998A-ED6755FAA3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DE8505-DA91-4A12-998A-ED6755FAA3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DE8505-DA91-4A12-998A-ED6755FAA3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364B99CC-75A4-4ABB-98CA-556EDEE3AD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364B99CC-75A4-4ABB-98CA-556EDEE3AD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364B99CC-75A4-4ABB-98CA-556EDEE3AD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364B99CC-75A4-4ABB-98CA-556EDEE3AD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

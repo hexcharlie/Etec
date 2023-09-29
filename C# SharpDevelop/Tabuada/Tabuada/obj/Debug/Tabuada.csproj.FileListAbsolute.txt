@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Documentos\SharpDevelop Projects\Tabuada\Tabuada\obj\Debug\Tabuada.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\SharpDevelop Projects\Tabuada\Tabuada\obj\Debug\Tabuada.MainForm.resources
+C:\Users\user\OneDrive\Documentos\SharpDevelop Projects\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Documentos\SharpDevelop Projects\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\user\OneDrive\Documentos\SharpDevelop Projects\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\user\OneDrive\Documentos\SharpDevelop Projects\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\user\OneDrive\Documentos\SharpDevelop Projects\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\user\OneDrive\Documentos\SharpDevelop Projects\Tabuada\Tabuada\obj\Debug\Tabuada.pdb
+D:\Etec\PA\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+D:\Etec\PA\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+D:\Etec\PA\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+D:\Etec\PA\Tabuada\Tabuada\obj\Debug\Tabuada.csprojResolveAssemblyReference.cache
+D:\Etec\PA\Tabuada\Tabuada\obj\Debug\Tabuada.MainForm.resources
+D:\Etec\PA\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.Cache
+D:\Etec\PA\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+D:\Etec\PA\Tabuada\Tabuada\obj\Debug\Tabuada.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\aula3\aula3\bin\Debug\aula3.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\aula3\aula3\bin\Debug\aula3.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\aula3\aula3\obj\Debug\aula3.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\aula3\aula3\obj\Debug\aula3.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\aula3\aula3\obj\Debug\aula3.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\aula3\aula3\obj\Debug\aula3.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\aula3\aula3\obj\Debug\aula3.pdb

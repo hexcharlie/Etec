@@ -1,0 +1,7 @@
+D:\Etec\PA\Netuno&Sereias\Netuno&Sereias\bin\Debug\Netuno&Sereias.exe
+D:\Etec\PA\Netuno&Sereias\Netuno&Sereias\bin\Debug\Netuno&Sereias.pdb
+D:\Etec\PA\Netuno&Sereias\Netuno&Sereias\obj\Debug\Netuno&Sereias.csprojResolveAssemblyReference.cache
+D:\Etec\PA\Netuno&Sereias\Netuno&Sereias\obj\Debug\Netuno_Sereias.MainForm.resources
+D:\Etec\PA\Netuno&Sereias\Netuno&Sereias\obj\Debug\Netuno&Sereias.csproj.GenerateResource.Cache
+D:\Etec\PA\Netuno&Sereias\Netuno&Sereias\obj\Debug\Netuno&Sereias.exe
+D:\Etec\PA\Netuno&Sereias\Netuno&Sereias\obj\Debug\Netuno&Sereias.pdb

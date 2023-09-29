@@ -1,0 +1,7 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Radar\Radar\obj\Debug\Radar.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Radar\Radar\obj\Debug\Radar.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Radar\Radar\obj\Debug\Radar.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Radar\Radar\bin\Debug\Radar.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Radar\Radar\bin\Debug\Radar.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Radar\Radar\obj\Debug\Radar.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Radar\Radar\obj\Debug\Radar.pdb

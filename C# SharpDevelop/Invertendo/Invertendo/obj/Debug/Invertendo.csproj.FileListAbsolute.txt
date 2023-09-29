@@ -1,0 +1,14 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Invertendo\Invertendo\obj\Debug\Invertendo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Invertendo\Invertendo\obj\Debug\Invertendo.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Invertendo\Invertendo\obj\Debug\Invertendo.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Invertendo\Invertendo\bin\Debug\Invertendo.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Invertendo\Invertendo\bin\Debug\Invertendo.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Invertendo\Invertendo\obj\Debug\Invertendo.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\Invertendo\Invertendo\obj\Debug\Invertendo.pdb
+E:\Etec\PA\Invertendo\Invertendo\bin\Debug\Invertendo.exe
+E:\Etec\PA\Invertendo\Invertendo\bin\Debug\Invertendo.pdb
+E:\Etec\PA\Invertendo\Invertendo\obj\Debug\Invertendo.csprojResolveAssemblyReference.cache
+E:\Etec\PA\Invertendo\Invertendo\obj\Debug\Invertendo.MainForm.resources
+E:\Etec\PA\Invertendo\Invertendo\obj\Debug\Invertendo.csproj.GenerateResource.Cache
+E:\Etec\PA\Invertendo\Invertendo\obj\Debug\Invertendo.exe
+E:\Etec\PA\Invertendo\Invertendo\obj\Debug\Invertendo.pdb
